@@ -1,0 +1,11 @@
+@define-color accent_color #ffb6bb;
+@define-color accent_bg_color #9e4446;
+@define-color window_bg_color #282e33;
+@define-color headerbar_bg_color @window_bg_color;
+@define-color sidebar_bg_color #2C3439;
+@define-color bg_color @window-bg-color;
+@define-color dark_bg_color @window-bg-color;
+@define-color info_bg_color @window-bg-color;
+.nautilus-window {
+    background-color: #282e33;
+}
